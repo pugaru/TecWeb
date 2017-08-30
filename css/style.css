@@ -1,0 +1,10 @@
+a{
+	font-family:Verdana;
+	color: red;
+	text-decoration: none;
+	font-size: 12px
+}
+p.ex{
+	border:1px solid;
+	border-color:#000000;
+	}
